@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "GDSC IPS ACADEMY",
+    "paragraph": "Google Developer Student Clubs are university based community groups for students interested in Google developer technologies."
+  },
+  "About": {
+    "paragraph": "Google Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.",
+    "Why": [
+      "Professional Growth",
+      "Network Growth",
+      "Community Learning",
+      "Mentor Guidance"
+    ],
+    "Why2": [
+      "Events & Hackathons",
+      "Speaker Sessions",
+      "Insights about Google",
+      "Swags & Certificates"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Compose Camp Day 1",
+      "largeImage": "img/portfolio/day_2.jpg",
+      "smallImage": "img/portfolio/day_2.jpg"
+    },
+    {
+      "title": "Compose Camp Day 1",
+      "largeImage": "img/portfolio/day_2.jpg",
+      "smallImage": "img/portfolio/day_2.jpg"
+    },
+    {
+      "title": "Compose Camp Day 2",
+      "largeImage": "img/portfolio/day_2.jpg",
+      "smallImage": "img/portfolio/day_2.jpg"
+    },
+    {
+      "title": "Compose Camp Day 2",
+      "largeImage": "img/portfolio/day2.jpg",
+      "smallImage": "img/portfolio/day2.jpg"
+    },
+    {
+      "title": "Compose Camp Day 2",
+      "largeImage": "img/portfolio/day-2.jpg",
+      "smallImage": "img/portfolio/day-2.jpg"
+    },
+    {
+      "title": "Compose Camp Day 3",
+      "largeImage": "img/portfolio/day3.jpg",
+      "smallImage": "img/portfolio/day3.jpg"
+    },
+    {
+      "title": "Compose Camp Day 3",
+      "largeImage": "img/portfolio/day3.jpg",
+      "smallImage": "img/portfolio/day3.jpg"
+    },
+    {
+      "title": "Compose Camp Day 4",
+      "largeImage": "img/portfolio/day3.jpg",
+      "smallImage": "img/portfolio/day3.jpg"
+    },
+    {
+      "title": "Compose Camp Day 4",
+      "largeImage": "img/portfolio/day-2.jpg",
+      "smallImage": "img/portfolio/day-2.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Web Team",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Android Team",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Blockchain Team",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Content Team",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Event Management Team",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Design Team",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Mohit Gupta",
+      "job": "GDSC Lead"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Priyansh Jain",
+      "job": "Co-Lead"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Om Aditya Jain",
+      "job": "Web Lead"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Sneha Sanu Mathew",
+      "job": "Content Lead"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
