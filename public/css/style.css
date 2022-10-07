@@ -209,14 +209,14 @@ a:focus,
   width: 100%;
   padding: 0;
   background: url(../img/intro-bg.png) center center no-repeat;
-  background-color: #e5e5e5;
+  background-color: rgb(230, 230, 230);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.4);
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
@@ -226,12 +226,14 @@ a:focus,
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 10px;
+  
 }
 .intro h1 span {
   font-weight: 800;
   color: #5ca9fb;
 }
 .intro p {
+  font-family: 'Roboto', sans-serif;
   color: #fff;
   font-size: 22px;
   font-weight: 300;
@@ -243,6 +245,9 @@ header .intro-text {
   padding-top: 350px;
   padding-bottom: 200px;
   text-align: center;
+}
+header .gdsc-logo {
+  display: flex;
 }
 /* Features Section */
 #features {
@@ -459,12 +464,12 @@ header .intro-text {
 }
 /* Contact Section */
 #contact {
-  padding: 100px 0 60px;
+  padding: 50px 0 60px;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
-  margin-bottom: 40px;
+  margin-bottom: 0px;
 }
 #contact .section-title p {
   font-size: 16px;
@@ -476,19 +481,26 @@ header .intro-text {
   padding-bottom: 15px;
 }
 #contact .section-title h2::after {
-  position: absolute;
+  /* position: absolute; */
   content: "";
   background: rgba(255, 255, 255, 0.3);
-  height: 4px;
+  /* height: 4px;
   width: 60px;
   bottom: 0;
-  left: 30px;
+  left: 30px; */
 }
 #contact h3 {
   color: #fff;
   margin-top: 80px;
   margin-bottom: 25px;
   padding-bottom: 20px;
+  font-weight: 400;
+}
+#contact p {
+  color: #fff;
+  /* margin-top: 80px;
+  margin-bottom: 25px;
+  padding-bottom: 20px; */
   font-weight: 400;
 }
 #contact form {
@@ -561,8 +573,8 @@ label {
 }
 #contact .social {
   border-top: 1px solid rgba(255, 255, 255, 0.15);
-  padding-top: 50px;
-  margin-top: 50px;
+  padding-top: 20px;
+  /* margin-top: 30px; */
   text-align: center;
 }
 #contact .social ul li {
