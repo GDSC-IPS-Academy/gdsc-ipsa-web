@@ -67,65 +67,95 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-html5",
       "name": "Web Team",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-android",
       "name": "Android Team",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-bitcoin",
       "name": "Blockchain Team",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-cloud",
+      "name": "Cloud Team",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Data Science Team",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-gear",
+      "name": "AI ML Team",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-code",
+      "name": "Flutter Team",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-code",
+      "name": "DSA/CP Team",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-book",
       "name": "Content Team",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Event Management Team",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
     },
     {
       "icon": "fa fa-pie-chart",
       "name": "Design Team",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": ""
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Event Management Team",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-instagram",
+      "name": "Social Media Team",
+      "text": ""
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"\"",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"\"",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"\"",
       "name": "Johnathan Doe"
     }
   ],
@@ -146,9 +176,59 @@
       "job": "Web Lead"
     },
     {
+      "img": "img/team/02.jpg",
+      "name": "Mitul Tiwari",
+      "job": "Android Lead"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Shashank Shekher",
+      "job": "Blockchain Lead"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Hemant",
+      "job": "Cloud Lead"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Moiz Bohra",
+      "job": "Data Science Lead"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Tushar Khanna",
+      "job": "AI ML Lead"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Rajat Suner",
+      "job": "Flutter Lead"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Harsh Goyal",
+      "job": "DSA/CP Lead"
+    },
+    {
       "img": "img/team/03.jpg",
       "name": "Sneha Sanu Mathew",
       "job": "Content Lead"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Divyanshu Joshi",
+      "job": "Design Lead"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Sheetal Patidar",
+      "job": "Event Mangement Lead"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Sonali Singh",
+      "job": "Social Media Lead"
     }
   ],
   "Contact": {
