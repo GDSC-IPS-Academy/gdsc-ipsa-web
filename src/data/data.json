@@ -20,49 +20,64 @@
   },
   "Gallery": [
     {
-      "title": "Compose Camp Day 1",
-      "largeImage": "img/portfolio/day_2.jpg",
-      "smallImage": "img/portfolio/day_2.jpg"
-    },
-    {
-      "title": "Compose Camp Day 1",
-      "largeImage": "img/portfolio/day_2.jpg",
-      "smallImage": "img/portfolio/day_2.jpg"
-    },
-    {
-      "title": "Compose Camp Day 2",
-      "largeImage": "img/portfolio/day_2.jpg",
-      "smallImage": "img/portfolio/day_2.jpg"
-    },
-    {
-      "title": "Compose Camp Day 2",
-      "largeImage": "img/portfolio/day2.jpg",
-      "smallImage": "img/portfolio/day2.jpg"
-    },
-    {
-      "title": "Compose Camp Day 2",
-      "largeImage": "img/portfolio/day-2.jpg",
-      "smallImage": "img/portfolio/day-2.jpg"
-    },
-    {
-      "title": "Compose Camp Day 3",
-      "largeImage": "img/portfolio/day3.jpg",
-      "smallImage": "img/portfolio/day3.jpg"
-    },
-    {
-      "title": "Compose Camp Day 3",
-      "largeImage": "img/portfolio/day3.jpg",
-      "smallImage": "img/portfolio/day3.jpg"
+      "title": "Compose Camp Day 4",
+      "largeImage": "img/portfolio/day4/day4-img1.jpg",
+      "smallImage": "img/portfolio/day4/day4-img1.jpg"
     },
     {
       "title": "Compose Camp Day 4",
-      "largeImage": "img/portfolio/day3.jpg",
-      "smallImage": "img/portfolio/day3.jpg"
+      "largeImage": "img/portfolio/day4/day4-img2.jpg",
+      "smallImage": "img/portfolio/day4/day4-img2.jpg"
     },
     {
       "title": "Compose Camp Day 4",
-      "largeImage": "img/portfolio/day-2.jpg",
-      "smallImage": "img/portfolio/day-2.jpg"
+      "largeImage": "img/portfolio/day4/day4-img3.jpg",
+      "smallImage": "img/portfolio/day4/day4-img3.jpg"
+    },
+    {
+      "title": "Compose Camp Day 3",
+      "largeImage": "img/portfolio/day3/day3-img1.jpg",
+      "smallImage": "img/portfolio/day3/day3-img1.jpg"
+    },
+    {
+      "title": "Compose Camp Day 3",
+      "largeImage": "img/portfolio/day3/day3-img2.jpg",
+      "smallImage": "img/portfolio/day3/day3-img2.jpg"
+    },
+    {
+      "title": "Compose Camp Day 3",
+      "largeImage": "img/portfolio/day3/day3-img3.jpg",
+      "smallImage": "img/portfolio/day3/day3-img3.jpg"
+    },
+    {
+      "title": "Compose Camp Day 2",
+      "largeImage": "img/portfolio/day2/day2-img1.jpg",
+      "smallImage": "img/portfolio/day2/day2-img1.jpg"
+    },
+    {
+      "title": "Compose Camp Day 2",
+      "largeImage": "img/portfolio/day2/day2-img2.jpg",
+      "smallImage": "img/portfolio/day2/day2-img2.jpg"
+    },
+    {
+      "title": "Compose Camp Day 2",
+      "largeImage": "img/portfolio/day2/day2-img3.jpg",
+      "smallImage": "img/portfolio/day2/day2-img3.jpg"
+    },
+    {
+      "title": "Compose Camp Day 1",
+      "largeImage": "img/portfolio/day1/day1-img1.jpg",
+      "smallImage": "img/portfolio/day1/day1-img1.jpg"
+    },
+    {
+      "title": "Compose Camp Day 1",
+      "largeImage": "img/portfolio/day1/day1-img2.jpg",
+      "smallImage": "img/portfolio/day1/day1-img2.jpg"
+    },
+    {
+      "title": "Compose Camp Day 1",
+      "largeImage": "img/portfolio/day1/day1-img3.jpg",
+      "smallImage": "img/portfolio/day1/day1-img3.jpg"
     }
   ],
   "Services": [
@@ -161,72 +176,72 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/mohit.jpg",
       "name": "Mohit Gupta",
       "job": "GDSC Lead"
     },
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/priyansh.jpeg",
       "name": "Priyansh Jain",
       "job": "Co-Lead"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/omaditya.jpg",
       "name": "Om Aditya Jain",
       "job": "Web Lead"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/mitul.jpg",
       "name": "Mitul Tiwari",
       "job": "Android Lead"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/shashank.jpg",
       "name": "Shashank Shekher",
       "job": "Blockchain Lead"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/hemant.jpg",
       "name": "Hemant",
       "job": "Cloud Lead"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/moiz.jpg",
       "name": "Moiz Bohra",
       "job": "Data Science Lead"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/tushar.jpg",
       "name": "Tushar Khanna",
       "job": "AI ML Lead"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/rajat.png",
       "name": "Rajat Suner",
       "job": "Flutter Lead"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/harsh.jpg",
       "name": "Harsh Goyal",
       "job": "DSA/CP Lead"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/sneha.jpeg",
       "name": "Sneha Sanu Mathew",
       "job": "Content Lead"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/divyanshu.jpg",
       "name": "Divyanshu Joshi",
       "job": "Design Lead"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/sheetal.jpeg",
       "name": "Sheetal Patidar",
       "job": "Event Mangement Lead"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/sonali.jpg",
       "name": "Sonali Singh",
       "job": "Social Media Lead"
     }
@@ -235,30 +250,30 @@
     "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "linkedin": "https://www.linkedin.com/company/gdsc-ipsa/",
+    "twitter": "https://twitter.com/GDSC_IPSA",
+    "instagram": "https://www.instagram.com/gdsc_ipsa/"
   },
-  "Features": [
+  "Events": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/events/day4.jpeg",
+      "name": "Compose Camp Day4",
+      "job": "Build a simple complete app using jetpack compose"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/events/day3.jpeg",
+      "name": "Compose Camp Day3",
+      "job": "Display List, Use Material Design and App architecture"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/events/day2.jpeg",
+      "name": "Compose Camp Day2",
+      "job": "Getting Started with Android Development and Jetpack Compose"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "img": "img/events/day1.jpeg",
+      "name": "Compose Camp Day1",
+      "job": "Your First Android App"
     }
   ]
 }
