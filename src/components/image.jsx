@@ -13,7 +13,7 @@ export const Image = ({ title, largeImage, smallImage }) => {
           </div>
           <img
             src={smallImage}
-            className='img-responsive'
+            className='img-responsive gallery-img'
             alt={title}
           />{' '}
         </a>{' '}
